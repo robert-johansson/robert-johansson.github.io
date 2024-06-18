@@ -20,7 +20,7 @@ locale: en-US
 title: "31 days"
 description: "Writing a PhD thesis in Computer Science in 31 days"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://robert-johansson.se # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # logo: # path of site logo, e.g. "/images/logo.png"
 logo: "/images/yinyang.png"
 date_format: "%Y-%m-%d"
