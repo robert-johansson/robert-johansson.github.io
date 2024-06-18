@@ -1,0 +1,5 @@
+{"class":"iristk.speech.Transcription","phones":
+  [ {"class":"iristk.speech.Phone","name":"_s","start":0,"end":0.01},
+    {"class":"iristk.speech.Phone","name":"J","start":0.01,"end":0.13},
+    {"class":"iristk.speech.Phone","name":"AE","start":0.13,"end":2.92},
+    {"class":"iristk.speech.Phone","name":"_s","start":2.92,"end":2.93} ] }

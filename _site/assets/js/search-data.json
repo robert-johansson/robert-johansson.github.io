@@ -1,0 +1,11 @@
+var store = [{
+        "title": "First week with 'The Mind Illuminated'",
+        "excerpt":"This week I will work primarily with the Stage One from the book, “Establishing a practice”. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/first-week/"
+      },{
+        "title": "Starting up",
+        "excerpt":"I have now started working with the book. Today I have been working with reading up on Stage One “Establishing a Practice”. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/starting-up/"
+      }]
