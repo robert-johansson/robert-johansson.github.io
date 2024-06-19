@@ -56,6 +56,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
+  - jekyll-github-metadata
+  
 
 author:
   name   : "First Lastname"
@@ -113,3 +116,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Jekyll Scholar
+scholar:
+  style: apa
+  locale: en
+  source: ./_bibliography
+  bibliography: references.bib 
