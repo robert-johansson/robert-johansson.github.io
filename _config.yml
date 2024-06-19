@@ -76,7 +76,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-scholar
+#  - jekyll-scholar
   
 # Front Matter Defaults
 defaults:
@@ -106,9 +106,9 @@ footer_links: false
 ###    icon: fas fa-rss-square
 
 # Jekyll Scholar
-scholar:
-  style: apa
-  locale: en
-  source: ./_bibliography
-  bibliography: references.bib 
+# scholar:
+#   style: apa
+#   locale: en
+#   source: ./_bibliography
+#   bibliography: references.bib 
 
