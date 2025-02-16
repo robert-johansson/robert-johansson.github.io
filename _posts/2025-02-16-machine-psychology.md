@@ -4,6 +4,7 @@ title: "Machine Psychology and Artificial General Intelligence"
 date: 2025-02-16 12:04:00 +0200
 categories: [AI, Machine Psychology, AGI]
 tags: [AGI, Machine Psychology, NARS, Learning Psychology]
+share: false
 ---
 
 Machine Psychology is an interdisciplinary framework integrating learning psychology and artificial intelligence to advance AGI research[^1]. By synthesizing operant conditioning with Pei Wang’s Non-Axiomatic Reasoning System (NARS), Machine Psychology proposes a model where AI systems adapt dynamically through structured learning[^2].
