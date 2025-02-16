@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Psychology and AGI"
-date: 2024-02-16 12:04:00 +0200
+date: 2025-02-16 12:04:00 +0200
 categories: [AI, Machine Psychology, AGI]
 tags: [AGI, Machine Psychology, NARS, Learning Psychology]
 ---
