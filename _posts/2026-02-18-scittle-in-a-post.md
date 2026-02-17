@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ClojureScript in a Blog Post"
-date: 2026-02-18 20:00:00 +0100
+date: 2026-02-18 12:00:00 +0100
 categories: [clojurescript]
 tags: [scittle, clojurescript, reagent]
 share: false
