@@ -17,8 +17,8 @@
 remote_theme: "mmistakes/so-simple-theme"
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "31 days"
-description: "Writing a PhD thesis in Computer Science in 31 days"
+title: "The Learning Machine"
+description: "Research notes on probabilistic programming, machine psychology, and AGI"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # logo: # path of site logo, e.g. "/images/logo.png"
