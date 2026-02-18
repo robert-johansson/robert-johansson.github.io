@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GPU-Accelerated Probabilistic Programming in ClojureScript"
-date: 2026-02-17 18:00:00 +0100
+date: 2026-02-18 10:30:00 +0100
 categories: [probabilistic-programming]
 tags: [clojurescript, mlx, prob-cljs, apple-silicon, bayesian]
 share: false
