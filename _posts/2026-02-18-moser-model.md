@@ -152,5 +152,5 @@ The implementation is a single Python file, 543 lines, using the memo DSL. The c
 
 - Moser, U., & von Zeppelin, I. (1991). *Der geträumte Traum: Wie Träume entstehen und sich verändern*. Stuttgart: Kohlhammer.
 - Baker, C. L., Saxe, R., & Tenenbaum, J. B. (2009). Action understanding as inverse planning. *Cognition*, 113(3), 329-349.
-- Chandra, K. (2024). memo: A domain-specific language for Bayesian recursive multi-agent reasoning.
+- Chandra, K., Chen, T., Tenenbaum, J. B., & Ragan-Kelley, J. (2025). A Domain-Specific Probabilistic Programming Language for Reasoning about Reasoning (or: a memo on memo). *Proceedings of the ACM on Programming Languages*, 9(OOPSLA2), 784-814.
 - Houlihan, S. D., & Tenenbaum, J. B. (2024). Computational models of affect and appraisal. Working paper, MIT.
