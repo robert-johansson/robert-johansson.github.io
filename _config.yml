@@ -20,7 +20,7 @@ locale: en-US
 title: "The Learning Machine"
 description: "Research notes on probabilistic programming, machine psychology, and AGI"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://robert-johansson.se"
 # logo: # path of site logo, e.g. "/images/logo.png"
 logo: "/images/yinyang.png"
 date_format: "%Y-%m-%d %H:%M"
